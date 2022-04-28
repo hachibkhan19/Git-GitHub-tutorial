@@ -185,6 +185,11 @@ $ git push -u origin main
 ```
 This command pushes all files in the remote repository.
 
+# `Git pull`
+```
+$ git pull
+```
+Git pull caught the all changes from the remote repository to the local repository
 
 # `.gitignore`
 All the secrect files or folder are includes in here
