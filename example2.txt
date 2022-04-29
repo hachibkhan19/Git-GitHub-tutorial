@@ -4,3 +4,4 @@ Try to remove conflict
 bye
 Hachib
 I am main branch
+I am understanding try to merge
