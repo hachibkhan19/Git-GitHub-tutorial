@@ -3,5 +3,5 @@ I am dev branch
 Try to remove conflict
 bye
 Hachib
-Hello Dev branch
-I am dev branch
+I am main branch
+I am understanding try to merge
