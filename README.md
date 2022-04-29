@@ -178,12 +178,18 @@ $ git remote -v
 ```
 This command shows the details.
 
-
 # `Git push -u origin main`
 ```
 $ git push -u origin main
 ```
 This command pushes all files in the remote repository.
+
+# `Git push -u origin dev`
+```
+$ git push -u origin dev
+```
+If we create a new branch and want to pushes all files in new branch for this we can use git push -u origin dev(branch name).
+
 
 # `Git pull`
 ```
