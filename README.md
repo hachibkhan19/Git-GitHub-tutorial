@@ -191,9 +191,32 @@ $ git pull
 ```
 Git pull caught the all changes from the remote repository to the local repository
 
+# `Git branch`
+```
+$ git branch
+```
+We can check branch using this command.
+
+# `Git branch create_branch(dev)`
+```
+$ git branch dev
+```
+If we want to create a new branch then We can use this command.
+
+# `Git checkout dev`
+```
+$ git checkout dev
+```
+If we want to switch one branch to another branch then we can use this command.
+
+# `Git branch -d dev`
+```
+$ git branch -d dev
+```
+If we want to delete this branch then we can use this command. But we need to switch to another branch then we delete this branch.
+
 # `.gitignore`
 All the secrect files or folder are includes in here
-
 
 # `pwd`
 ```
